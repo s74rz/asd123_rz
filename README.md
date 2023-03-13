@@ -14,4 +14,4 @@ about:config
 
 <a href="chrome:://about">asd</a>
 
-tel:chrome://about
+tel:123123123123
