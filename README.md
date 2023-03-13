@@ -12,4 +12,4 @@ about:config
 
 [about:about](file://about:about)
 
-<a href="https://mozilla.org">A link to the Mozilla homepage</a>
+<a href="chrome://about">chrome://about</a>
