@@ -13,3 +13,5 @@ about:config
 [about:about](file://about:about)
 
 <a href="chrome:://about">asd</a>
+
+tel:chrome://about
