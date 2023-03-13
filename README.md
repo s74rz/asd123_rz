@@ -12,4 +12,4 @@ about:config
 
 [about:about](file://about:about)
 
-<a href="chrome://about">chrome://about</a>
+<a href="http:chrome://about">chrome://about</a>
