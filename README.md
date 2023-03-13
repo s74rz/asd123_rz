@@ -8,3 +8,5 @@ about:config
 [chrome://about](chrome://about)
 
 [about:config](http://about:about)
+
+<chrome://about>
