@@ -6,3 +6,5 @@ about:config
 [about:config](http://about:config)
 
 [chrome://about](chrome://about)
+
+[about:config](http://about:about)
