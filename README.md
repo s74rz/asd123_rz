@@ -5,4 +5,4 @@ about:config
 
 [about:config](http://about:config)
 
-[chrome://about](chrome://about)
+[chrome://about](http://chrome://about)
