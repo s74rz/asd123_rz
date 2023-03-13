@@ -33,5 +33,5 @@ example.com (but not on Github, for example).
 Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
+[1]: chrome://about
 [link text itself]: http://www.reddit.com
