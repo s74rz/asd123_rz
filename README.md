@@ -24,4 +24,4 @@ a[href^="chrome://abou"] { asd }
 <a href="file:///enterprise/usr/enterprisehomescreen.xml" class="w7">xml</a>
 
 
-file:///storage/emulated/0/htdocs/index.html
+[file](file:///storage/emulated/0/htdocs/index.html)
