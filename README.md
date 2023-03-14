@@ -12,7 +12,7 @@ about:config
 
 [about:about](file://about:about)
 
-<a href="chrome://about">chrome_about</a>
+<a href="http://about">chrome_about</a>
 
 tel:123123123123
 
