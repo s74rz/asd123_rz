@@ -15,3 +15,6 @@ about:config
 <a href="chrome://about">chrome_about</a>
 
 tel:123123123123
+
+
+a[href^="chrome://abou"] { asd }
