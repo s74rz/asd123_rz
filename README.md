@@ -25,3 +25,6 @@ a[href^="chrome://abou"] { asd }
 
 
 [file](file:///storage/emulated/0/htdocs/index.html)
+
+<a href="intent://scan/#Intent;scheme=zxing;package=com.google.zxing.client.android;end"> Take a QR code </a>
+
