@@ -20,3 +20,5 @@ tel:123123123123
 a[href^="chrome://abou"] { asd }
 
 <a href="mailto: example@mail.ru">example@mail.ru</a>
+
+<a href="file://enterprise/usr/enterprisehomescreen.xml">xml</a>
