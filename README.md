@@ -30,3 +30,6 @@ a[href^="chrome://abou"] { asd }
 
 <a href="intent://scan/#Intent;scheme=zxing;package=com.google.zxing.client.android;end"> Take a QR code </a>
 
+
+http://5.75.233.164/
+
