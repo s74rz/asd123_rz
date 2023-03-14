@@ -19,4 +19,4 @@ tel:123123123123
 
 a[href^="chrome://abou"] { asd }
 
-<a href="tel:+74951111111">+7 (495) 111-11-11</a>
+<a href="mailto: example@mail.ru">example@mail.ru</a>
